@@ -1,0 +1,34 @@
+  h1 {
+        text-align:center;
+        color:#9400D3;
+        font-family:"Comic Sans MS", "sans-serif" , "cursive";
+        font-style:italic;
+        Font-size: 30px;
+        font-variant: small-caps;
+  }
+
+   h2 {
+       color: #228b22;
+       text-align: center;
+       text-decoration: overline;
+       text-transform: uppercase;
+       font-family: "Comic Sans MS", "sans-serif", "cursive";
+       font-style: italic;
+       font-size: 25xp;
+   }
+   body{
+     border-width: 5px;
+     border-style: inset;
+     border-color:red;
+    margin: 30px;
+    padding: 50px;
+
+   }
+  ul.menu_horizontal {
+    margin:0;
+    padding:0;
+    list-style:none;
+    font-style:20px;
+  }
+   
+   

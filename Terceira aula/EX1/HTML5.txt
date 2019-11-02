@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha primeira pagina</title>
+    <style>
+        body{background-color: rgb(132, 0, 255);}
+     </style>
+
+    <link rel="stylesheet" href="pw1.css">
+</head>
+<body>
+    <p style="color:burlywood;">animalzinhos de domesticos</p> 
+    <h1>GATINHOS SAO MUITO FOFOS</h1>
+    <img src="gatinho.jpg">
+</body>
+</html>

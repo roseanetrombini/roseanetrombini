@@ -1,0 +1,24 @@
+ul.menu_horizontal{
+margin: 0;
+padding: 0;
+list-style: none;
+width: 14px;
+font-style: 20px;
+}
+ul.menu_horizontal li a{
+    float: left;
+    display: block;
+    padding: 10px;
+    background: #228B22;
+    border-right: 1px solid #fff;
+    text-decoration: none;
+    border-left: 10px solid #ffd700;
+    color: #fff;
+    
+}
+    ul.menu_horizontal li a;hover{
+        background: #ffd700;
+        border-left: 10px solid #228B22;
+        color: #228b22;
+    }
+
