@@ -1,0 +1,15 @@
+<html>
+    <head>
+
+    <script language=javascript>
+        
+        num1 = prompt("valor da compra");
+        num2 = parseFloat("Nota 2:")/5
+        Alert=("valor da compra")
+
+           Script>
+            <body></body>
+            
+            </head>
+
+</html>

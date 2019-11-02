@@ -1,0 +1,14 @@
+<html>
+    <head>
+
+    <script language=javascript>
+        num1 = (20);
+        num2 = prompt("Valor");
+        soma = (num1) - parseFloat(num2)
+        alert("seu valor" + soma);
+     </script>    
+
+    <body></body>
+    </head>
+
+</html>
